@@ -1,5 +1,7 @@
 # Pytorch Implementation for "Minority-Oriented Vicinity Expansion with Attentive Aggregation for Video Long-Tailed Recognition" (AAAI 2023) 
 
+[Arxiv]() | [Paper]()
+
 ## 1. Requirements & Environments
 To run the code, you need to install requirements below.
 We suggest to work with torch version (1.2 ~ 1.7.1).
@@ -11,7 +13,7 @@ pip install -r requirements.txt
 
 
 ## 2. Training & Evaluation
-Please refer to subdirectories for training each VideoLT and Imbalanced-MiniKinetics200 dataset. 
+Please refer to subdirectories for training each [VideoLT](VideoLT) and [Imbalanced-MiniKinetics200](Imbalanced-MiniKinetics200) dataset. 
 
 
 ##  Cite MOVE 
