@@ -4,6 +4,7 @@
 Imbalanced-MiniKinetics200 can be downloaded [here](http://115.145.172.53:1215/AAAI_2023_MOVE_longtailed_minikinetics/index.html).
 For using extracted features, modify the details in `dataset/dutils_kinetics.py` and set the correct path to features.
 If one wants to download dataset by him/herself, please refer to instructions [pretrained_extract_kinetics/README.md](pretrained_extract_kinetics/README.md).
+Note that our provided raw frames do not include all samples for every class (some classes might contain only a few videos) since not all of them are needed to construct an imbalanced dataset.
 
 ## Usage
 
