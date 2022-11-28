@@ -1,6 +1,6 @@
 # Pytorch Implementation for "Minority-Oriented Vicinity Expansion with Attentive Aggregation for Video Long-Tailed Recognition" (AAAI 2023) 
 
-[Arxiv]() | [Paper]()
+[Arxiv](https://arxiv.org/abs/2211.13471) | [Paper]()
 
 ## 1. Requirements & Environments
 To run the code, you need to install requirements below.
