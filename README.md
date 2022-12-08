@@ -1,4 +1,4 @@
-# Pytorch Implementation for "Minority-Oriented Vicinity Expansion with Attentive Aggregation for Video Long-Tailed Recognition" (AAAI 2023) 
+# Pytorch Implementation for "Minority-Oriented Vicinity Expansion with Attentive Aggregation for Video Long-Tailed Recognition" (AAAI 2023) and Imbalanced-MiniKinetics200 dataset.
 
 [Arxiv](https://arxiv.org/abs/2211.13471) | [Download Imbalanced-MiniKinetics200](http://115.145.172.53:1215/AAAI_2023_MOVE_longtailed_minikinetics/index.html)
 
