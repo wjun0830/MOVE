@@ -18,6 +18,14 @@ Please refer to subdirectories for training each [VideoLT](VideoLT) and [Imbalan
 
 ##  Cite MOVE 
 If you find this repository useful, please use the following entry for citation.
+```
+@article{moon2022minority,
+  title={Minority-Oriented Vicinity Expansion with Attentive Aggregation for Video Long-Tailed Recognition},
+  author={Moon, WonJun and Seong, Hyun Seok and Heo, Jae-Pil},
+  journal={arXiv preprint arXiv:2211.13471},
+  year={2022}
+}
+```
 
 ## Contributors and Contact
 If there are any questions, feel free to contact with the authors: [WonJun Moon](wjun0830@gmail.com) and [Hyun Seok Seong](gustjrdl95@gmail.com).
