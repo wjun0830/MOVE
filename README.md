@@ -1,6 +1,6 @@
 # Pytorch Implementation for "Minority-Oriented Vicinity Expansion with Attentive Aggregation for Video Long-Tailed Recognition" (AAAI 2023 Oral) and Imbalanced-MiniKinetics200 dataset.
 
-[Arxiv](https://arxiv.org/abs/2211.13471) | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25284/25056) | [Imbalanced-MiniKinetics200](https://drive.google.com/drive/folders/1ZaXo0a7eEStSaIfv1ql6Qex8AeVl2VOX?usp=sharing)
+[Arxiv](https://arxiv.org/abs/2211.13471) | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25284/25056) | [Imbalanced-MiniKinetics200](https://drive.google.com/drive/folders/1ZaXo0a7eEStSaIfv1ql6Qex8AeVl2VOX?usp=sharing) | [Project Page](https://wjun0830.github.io/aaai2023/MOVE/) | [Video](https://www.youtube.com/watch?v=SbXsj_pc_-c&t=308s&ab_channel=WonJunMoon)
 
 ## 1. Requirements & Environments
 To run the code, you need to install requirements below.
